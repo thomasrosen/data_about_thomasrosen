@@ -1,3 +1,4 @@
+unit-of-value: kilogram
 data:
     - date: 2021-03-07 15:22
       value: 67.6
@@ -5,4 +6,7 @@ data:
     - date: 2021-03-13 17:13
       value: 66.3
       cloth: partial
+    - date: 2021-03-14 19:47
+      value: 65.9
+      cloth: underware
 ---
