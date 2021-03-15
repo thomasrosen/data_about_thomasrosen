@@ -9,4 +9,7 @@ data:
     - date: 2021-03-14 19:47
       value: 65.9
       cloth: underware
+    - date: 2021-03-15 03:41
+      value: 68.7
+      cloth: yes
 ---
