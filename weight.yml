@@ -5,7 +5,7 @@ data:
       cloth: yes
     - date: 2021-03-13 17:13+01:00
       value: 66.3
-      cloth: partial
+      cloth: yes
     - date: 2021-03-14 19:47+01:00
       value: 65.9
       cloth: underware
