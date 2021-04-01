@@ -60,4 +60,7 @@ data:
     - date: 2021-03-31 20:29+02:00
       value: 67.6
       cloth: yes
+    - date: 2021-04-01 14:58+02:00
+      value: 66.4
+      cloth: no
 ---
