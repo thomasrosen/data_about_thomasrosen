@@ -1,12 +1,12 @@
 wishes:
     - title: Tagebuch der Anne Frank
-      date_added: 2021-03-13 00:43:00 +01:00
+      date_added: 2021-03-13 00:43:00+01:00
       tags: book
     - title: Traditioneller Gemüse Schäler
-      date_added: 2021-03-28 13:39:00 +01:00
+      date_added: 2021-03-28 13:39:00+01:00
       tags: household
     - title: Fuß Trap
       description: Etwas um die füße drauf zu stellen, während man auf der Toilette ist.
-      date_added: 2021-03-28 13:38:00 +01:00
+      date_added: 2021-03-28 13:38:00+01:00
       tags: household
 ---
