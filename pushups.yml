@@ -5,4 +5,12 @@ data:
       value: 20
     - date_finished: 2021-03-03 02:37+02:00
       value: 10
+    - date_finished: 2021-03-03 03:03+02:00
+      value: 10
+    - date_finished: 2021-03-03 03:25+02:00
+      value: 10
+    - date_finished: 2021-03-03 03:59+02:00
+      value: 10
+    - date_finished: 2021-03-03 05:33+02:00
+      value: 10
 ---
