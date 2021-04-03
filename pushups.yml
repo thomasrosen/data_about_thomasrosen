@@ -3,4 +3,6 @@ data:
       value: 20
     - date_finished: 2021-03-19 07:53+01:00
       value: 20
+    - date_finished: 2021-03-03 02:37+02:00
+      value: 10
 ---
