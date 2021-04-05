@@ -17,4 +17,6 @@ data:
       value: 10
     - date_finished: 2021-03-04 23:51+02:00
       value: 10
+    - date_finished: 2021-03-05 02:23+02:00
+      value: 10
 ---
