@@ -81,4 +81,11 @@ data:
     - date: 2021-04-07 16:04+02:00
       value: 66.9
       cloth: yes
+    - date: 2021-04-08 06:39+02:00
+      value: 70.7
+      cloth: yes
+      comment: Mit Fließjacke. Habe am Tag viel Wasser getrunken.
+    - date: 2021-04-09 17:01+02:00
+      value: 66.3
+      cloth: underware
 ---
