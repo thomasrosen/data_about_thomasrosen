@@ -44,4 +44,8 @@ data:
       value: 16
     - date_finished: 2021-03-09 17:52+02:00
       value: 15
+    - date_finished: 2021-03-09 17:55+02:00
+      value: 15
+    - date_finished: 2021-03-10 04:43+02:00
+      value: 14
 ---
