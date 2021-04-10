@@ -38,6 +38,7 @@ data:
       value: 15
     - date_finished: 2021-03-08 02:42+02:00
       value: 14
+      comment: Der 15te war zu schludrig.
     - date_finished: 2021-03-08 04:48+02:00
       value: 15
     - date_finished: 2021-03-08 17:51+02:00
@@ -48,4 +49,5 @@ data:
       value: 15
     - date_finished: 2021-03-10 04:43+02:00
       value: 14
+      comment: Der 15te war zu schludrig.
 ---
