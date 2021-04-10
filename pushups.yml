@@ -50,4 +50,8 @@ data:
     - date_finished: 2021-03-10 04:43+02:00
       value: 14
       comment: Der 15te war zu schludrig.
+    - date_finished: 2021-03-10 04:55+02:00
+      value: 16
+    - date_finished: 2021-03-10 05:08+02:00
+      value: 14
 ---
