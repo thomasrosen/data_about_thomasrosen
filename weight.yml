@@ -88,4 +88,7 @@ data:
     - date: 2021-04-09 17:01+02:00
       value: 66.3
       clothes: underware
+    - date: 2021-04-09 17:53+02:00
+      value: 66.1
+      clothes: no
 ---
