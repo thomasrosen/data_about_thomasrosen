@@ -54,4 +54,18 @@ data:
       value: 16
     - date_finished: 2021-03-10 05:08+02:00
       value: 14
+    - date_finished: 2021-03-11 07:22+02:00
+      value: 16
+    - date_finished: 2021-03-11 08:53+02:00
+      value: 15
+    - date_finished: 2021-03-11 09:25+02:00
+      value: 14
+    - date_finished: 2021-03-11 12:21+02:00
+      value: 15
+    - date_finished: 2021-03-11 12:29+02:00
+      value: 13
+    - date_finished: 2021-03-11 22:02+02:00
+      value: 15
+    - date_finished: 2021-03-12 09:34+02:00
+      value: 16
 ---
