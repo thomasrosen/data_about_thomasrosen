@@ -152,4 +152,6 @@ data:
       value: 17
     - date_finished: 2021-04-19 09:28+02:00
       value: 16
+    - date_finished: 2021-04-19 22:14+02:00
+      value: 16
 ---
