@@ -140,4 +140,16 @@ data:
       value: 8
     - date_finished: 2021-03-17 19:51+02:00
       value: 11
+    - date_finished: 2021-03-18 08:56+02:00
+      value: 11
+    - date_finished: 2021-03-18 13:16+02:00
+      value: 17
+    - date_finished: 2021-03-18 14:20+02:00
+      value: 16
+    - date_finished: 2021-03-18 15:18+02:00
+      value: 14
+    - date_finished: 2021-03-18 22:45+02:00
+      value: 17
+    - date_finished: 2021-03-19 09:28+02:00
+      value: 16
 ---
