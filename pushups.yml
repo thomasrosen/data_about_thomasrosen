@@ -158,4 +158,12 @@ data:
       value: 16
     - date_finished: 2021-04-19 22:44+02:00
       value: 14
+    - date_finished: 2021-04-20 11:46+02:00
+      value: 16
+      comment: Der 17te war zu schludrig.
+    - date_finished: 2021-04-20 14:41+02:00
+      value: 16
+      comment: Der 17te war zu schludrig.
+    - date_finished: 2021-04-20 18:01+02:00
+      value: 17
 ---
