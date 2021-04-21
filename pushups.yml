@@ -166,4 +166,12 @@ data:
       comment: Der 17te war zu schludrig.
     - date_finished: 2021-04-20 18:01+02:00
       value: 17
+    - date_finished: 2021-04-20 23:43+02:00
+      value: 14
+    - date_finished: 2021-04-21 12:28+02:00
+      value: 20
+      comment: Waren glaub ich nicht super akkurat.
+    - date_finished: 2021-04-21 16:02+02:00
+      value: 14
+      comment: Der 15te war zu schludrig.
 ---
