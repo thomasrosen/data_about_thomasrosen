@@ -197,4 +197,16 @@ data:
       comment: Der 17te war nicht gut.
     - date_finished: 2021-04-23 06:54+02:00
       value: 14
+    - date_finished: 2021-04-23 16:06+02:00
+      value: 17
+    - date_finished: 2021-04-23 16:10+02:00
+      value: 10
+    - date_finished: 2021-04-23 23:05+02:00
+      value: 15
+    - date_finished: 2021-04-23 23:55+02:00
+      value: 13
+    - date_finished: 2021-04-23 23:57+02:00
+      value: 12
+    - date_finished: 2021-04-23 23:59+02:00
+      value: 6
 ---
