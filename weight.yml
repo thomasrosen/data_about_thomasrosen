@@ -136,4 +136,13 @@ data:
     - date: 2021-04-21 12:26+02:00
       value: 66.9
       clothes: underware
+    - date: 2021-04-21 22:27+02:00
+      value: 68.3
+      clothes: yes
+    - date: 2021-04-22 12:40+02:00
+      value: 69.2
+      clothes: yes
+    - date: 2021-04-23 02:27+02:00
+      value: 69.5
+      clothes: yes
 ---
