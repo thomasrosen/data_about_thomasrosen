@@ -174,4 +174,22 @@ data:
     - date_finished: 2021-04-21 16:02+02:00
       value: 14
       comment: Der 15te war zu schludrig.
+    - date_finished: 2021-04-21 23:41+02:00
+      value: 12
+    - date_finished: 2021-04-21 23:44+02:00
+      value: 10
+    - date_finished: 2021-04-21 23:48+02:00
+      value: 9
+      comment: Der 10te war nicht gut.
+    - date_finished: 2021-04-21 23:51+02:00
+      value: 8
+      comment: Der 9te war nicht gut.
+    - date_finished: 2021-04-22 11:53+02:00
+      value: 14
+      comment: Der 15te war nicht gut.
+    - date_finished: 2021-04-22 12:39+02:00
+      value: 15
+    - date_finished: 2021-04-22 23:01+02:00
+      value: 14
+      comment: Der 15te war nicht gut.
 ---
