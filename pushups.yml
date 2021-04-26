@@ -219,4 +219,12 @@ data:
       value: 13
     - date_finished: 2021-04-25 19:10+02:00
       value: 13
+    - date_finished: 2021-04-25 19:23+02:00
+      value: 10
+      comment: IDK was ich falsch mache, aber nur 10 wirkt komisch.
+    - date_finished: 2021-04-26 12:01+02:00
+      value: 10
+      comment: Ich hätte mehr gekonnt.
+    - date_finished: 2021-04-26 12:45+02:00
+      value: 13
 ---
