@@ -231,3 +231,7 @@ data:
       value: 10
     - date_finished: 2021-04-26 21:24+02:00
       value: 12
+    - date_finished: 2021-04-26 23:49+02:00
+      value: 14
+    - date_finished: 2021-04-26 23:53+02:00
+      value: 14
