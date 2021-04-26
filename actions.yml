@@ -3,4 +3,3 @@ data:
     - date: 2021-04-04 15:30+02:00
       action: Brushed my teeth
       comment: I log this action, to remind me to brush my teeth. (I can be forgetful.)
----
