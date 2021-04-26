@@ -227,4 +227,8 @@ data:
       comment: Ich hätte mehr gekonnt.
     - date_finished: 2021-04-26 12:45+02:00
       value: 13
+    - date_finished: 2021-04-26 21:17+02:00
+      value: 10
+    - date_finished: 2021-04-26 21:24+02:00
+      value: 12
 ---
