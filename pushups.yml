@@ -261,3 +261,9 @@ data:
       value: 15
     - date_finished: 2021-04-30 20:14+02:00
       value: 12
+    - date_finished: 2021-05-03 02:53+02:00
+      value: 15
+    - date_finished: 2021-05-03 03:01+02:00
+      value: 15
+    - date_finished: 2021-05-03 14:29+02:00
+      value: 17
