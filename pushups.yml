@@ -267,3 +267,8 @@ data:
       value: 15
     - date_finished: 2021-05-03 14:29+02:00
       value: 17
+    - date_finished: 2021-05-03 23:08+02:00
+      value: 16
+    - date_finished: 2021-05-05 03:25+02:00
+      value: 20
+      comment: I did these faster than the others. But I tried to be accurate.
