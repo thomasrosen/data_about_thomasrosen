@@ -661,3 +661,9 @@ data:
   - date: 2021-05-19 23:39+02:00
     value: 68.1
     clothes: no
+  - date: 2021-05-20 10:08+02:00
+    value: 67.9
+    clothes: yes
+  - date: 2021-05-20 11:28+02:00
+    value: 68.7
+    clothes: yes
