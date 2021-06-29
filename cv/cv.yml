@@ -1,0 +1,90 @@
+about:
+  name: Thomas Christian Rosen
+  first_name: Thomas
+  middle_name: Christian
+  last_name: Rosen
+  birth:
+    date: 1996-12-10
+    place: Cologne, Germany
+  bio: |
+    Hi!
+
+schoolings:
+  - date: 2015-06-23
+    name_short: Erste-Hilfe-Lehrgang
+    name: Erste-Hilfe-Lehrgang (9 UE)
+  - date: 2017-06-26
+    name_short: Erste-Hilfe-Lehrgang
+    name: Auffrischung Erste-Hilfe-Lehrgang (9 UE)
+  - date: 2013
+    name_short: Präventionsschulung
+    name: Präventionsschulung durch das Erzbistum Köln
+  - date: 2012
+    date_info: Frühjahr 2012
+    name_short: Gruppenleiterschulung
+    name: Gruppenleiterschulung bei der KJA
+    info: Im Dezember 2012 erhalt der Jugend Leiter Card (JuLeiCa)
+  - date_start: 2021-03-05 14:00
+    date_end: 2021-03-07 12:30
+    # date_info: An drei Wocheenden
+    name_short: Civil Academy VNT21
+    name: Vernetzungstreffen der Civil Academy
+  - date: 2012
+    date_info: Herbst 2012
+    name_short: Sozialpraktikum
+    name: Sozialpraktikum an der LVR-Christophorusschule Bonn
+    info: Das Sozialpraktikum ging 3 Wochen. Es war pflicht am Collegium Josephinum Bonn (Gymnasium)
+
+languages:
+  - date_start: 1996-12-10
+    name: German
+    info: German is my mother tongue.
+    fluidity: native
+  - date_start: 2005
+    name: English
+    info: |
+      I learned English since the third grade / 9 years old.
+      Fluidity: Unknown but pretty good.
+  - date_start: 2007
+    name: Latin
+    info: |
+      I learned English since the fifth grade, upto (including) the tens grade.
+      Fluidity: I have a "Großes Latinum" but started forgetting way too fast.
+
+schools:
+  - date_start: 2003
+    date_end: 2007
+    name_short: Grundschule
+    name: Matthias-Claudius Grundschule, Bonn-Endenich, Germany
+  - date_start: 2003
+    date_end: 2007
+    name_short: Grundschule
+    name: Matthias-Claudius Grundschule, Bonn-Endenich, Germany
+  - date_start: 2003
+    date_end: 2007
+    name_short: CoJoBo (Gymnasium)
+    name: Collegium Josephinum Bonn (Gymnasium), Bonn-Auerberg, Germany
+    info: 2015 habe ich am CoJoBo mein Abitur mit den Leistungskursen Mathematik und Physik erhalten.
+    url:
+      - https://www.cojobo.net/aktuelles/detail/items/1-schultag.html
+      - https://www.cojobo.net/aktuelles/detail/items/abiturentlassfeier-2015.html
+  - date_start: 2015-09-14
+    name_short: University
+    name: Computer Science at Rheinische Friedrich-Wilhelms-Universität Bonn, Germany
+    info: I started studing computer science at the Rheinische Friedrich-Wilhelms-Universität Bonn.
+
+extra_curricula:
+  - date_start: 2009
+    date_end: 2015
+    name: Physik AG (LEGO-Roboter)
+    url: https://user.cojobo.net/~u.neffgen/homepage/robolab.html
+  - date_start: 2013
+    date_end: 2015
+    name: 2. Physik AG
+    info: In dieser Physik-AG ging es wirklich um Physik. Wir bekamen Zugang zur gesamten Physik-Sammlung und konnten Experimente durchführen. Angeleitet wurde diese von Herr Thomas Hildebrand.
+  - date_start: 2008
+    date_end: 2016
+    name_short: Informatik-AG
+    name: Mithilfe im IT-Bereich des CoJoBo (Informatik-AG)
+    info: Ab Anfang 2014 Administrator des Schul-Netzwerks; Ab 2016 nur noch spontan.
+    url: https://user.cojobo.net/~u.neffgen/homepage/informatikag.html
