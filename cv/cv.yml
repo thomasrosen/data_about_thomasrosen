@@ -88,3 +88,31 @@ extra_curricula:
     name: Mithilfe im IT-Bereich des CoJoBo (Informatik-AG)
     info: Ab Anfang 2014 Administrator des Schul-Netzwerks; Ab 2016 nur noch spontan.
     url: https://user.cojobo.net/~u.neffgen/homepage/informatikag.html
+
+volt:
+  - date_start: 2019
+    name: Volunteer
+  - date_start: 2019 ???
+    name: Member
+  - date_start: 2019
+    date_end: 2021
+    name: DE Bonn Diversity Lead
+    description: (Benjamin Felten hat meine position übernommen.)
+  - date_start: 2019
+    date_end: 2020
+    name: EUR Diversity Expansion
+  - date_start: 2020
+    date_end: 2020
+    name: DE Bonn Community Lead
+  - date_start: 2020
+    date_end: 2021
+    name: DE Bonn City Co-Lead
+    description: Nach der Kommunalwahl 6 Monate lang.
+  - date_start: 2020
+    name: DE Queer Lead
+  - date_start: 2021
+    name: Kleine Tech Projekte.
+    description: |
+      Ich habe einen Profile Rahmen Generator geschrieben: profile-volt.org.
+      Eine Kombination von linktr.ee und bit.ly: volt.link.
+      Und einen QR-Code Generator: qrcode.volt.link.
