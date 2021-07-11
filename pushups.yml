@@ -305,3 +305,9 @@ data:
       value: 20
     - date_finished: 2021-07-06 10:52+02:00
       value: 20
+    - date_finished: 2021-07-07 12:00+02:00
+      value: 18
+      comment: Date and time are estimations. I did them after taking a shower.
+    - date_finished: 2021-07-11 19:29+02:00
+      value: 19
+      comment: Did them while waiting for the spagetti to finish cooking.
