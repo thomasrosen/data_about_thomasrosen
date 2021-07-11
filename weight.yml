@@ -706,3 +706,9 @@ data:
   - date: 2021-06-29 03:12+02:00
     value: 68.8
     clothes: no
+  - date: 2021-07-08 12:53+02:00
+    value: 68.2
+    clothes: underware
+  - date: 2021-07-10 19:22+02:00
+    value: 67.7
+    clothes: underware
