@@ -1,13 +1,19 @@
 about:
-  name: Thomas Christian Rosen
-  first_name: Thomas
-  middle_name: Christian
-  last_name: Rosen
+  name:
+    first: Thomas
+    middle: Christian
+    last: Rosen
   birth:
     date: 1996-12-10
     place: Cologne, Germany
-  bio: |
-    Hi!
+  grew_up_in: Bonn, Germany
+
+interests:
+  - museums (history, art)
+  - design and art (I like bautiful stuff that just works)
+  - problem solving
+  - meeting new people (they motivate me)
+  - biking, hiking and swimming (nature and sport get my thoughts flowing and give me energy)
 
 schoolings:
   - date: 2015-06-23
@@ -50,6 +56,7 @@ languages:
     info: |
       I learned English since the fifth grade, upto (including) the tens grade.
       Fluidity: I have a "Großes Latinum" but started forgetting way too fast.
+      It now helps me understand related languages.
 
 schools:
   - date_start: 2003
@@ -90,12 +97,12 @@ extra_curricula:
     url: https://user.cojobo.net/~u.neffgen/homepage/informatikag.html
 
 volt:
-  - date_start: 2019
+  - date_start: 2019-05-05 19:39:59 UTC
     name: Volunteer
-  - date_start: 2019 ???
+  - date_start: 2019-07-01 20:43:47 UTC
     name: Member
-  - date_start: 2019
-    date_end: 2021
+  - date_start: 2019-05-??
+    date_end: 2021-06-??
     name: DE Bonn Diversity Lead
     description: (Benjamin Felten hat meine position übernommen.)
   - date_start: 2019
@@ -104,10 +111,12 @@ volt:
   - date_start: 2020
     date_end: 2020
     name: DE Bonn Community Lead
+    url: https://web.archive.org/web/20200929031716if_/https://www.voltdeutschland.org/bonn/
   - date_start: 2020
     date_end: 2021
     name: DE Bonn City Co-Lead
     description: Nach der Kommunalwahl 6 Monate lang.
+    url: https://web.archive.org/web/20210302180621if_/https://www.voltdeutschland.org/bonn/
   - date_start: 2020
     name: DE Queer Lead
   - date_start: 2021
@@ -116,3 +125,38 @@ volt:
       Ich habe einen Profile Rahmen Generator geschrieben: profile-volt.org.
       Eine Kombination von linktr.ee und bit.ly: volt.link.
       Und einen QR-Code Generator: qrcode.volt.link.
+
+programming_languages:
+  - JavaScript (React, Node, Express)
+  - HTML/CSS
+  - GraphQL, SQL, mongoDB, Firebase
+  - Bash
+  - Markdown, YAML, JSON, XML
+  - PHP (did not use for a long time)
+  - C (did not use for a long time)
+  - Python (could be better)
+  - Java (learned in school but did not use for a long time)
+
+programming_languages_i_want_to_learn:
+  - Rust
+  - Go
+  - Assembly (never used but read and watched about it)
+
+other:
+  - WordPress, Ghost
+  - Git, GitHub Actions
+  - Cloudflare, uberspace
+  - OpenStreetMap Tagging, Overpass API, Leaflet, Mapbox (, QGis)
+  - Linux, MacOS
+
+Graphik Design:
+  - Blender
+  - Abobe (Photoshop, Illustrator, InDesign)
+  - Affinity (Photo, Designer, Publisher)
+  - Figma
+  - Davinci Resolve
+  - storybookJS
+
+Articles about me:
+  - https://www.aboutamazon.com/news/aws/mapping-safe-places-for-people-in-the-lgbtq-community
+  - https://wonder.ph/life/tech/how-you-can-put-lgbtqia-safe-spaces-on-the-map/
