@@ -10,8 +10,8 @@ about:
 
 interests:
   - museums (history, art)
-  - design and art (I like bautiful stuff that just works)
-  - problem solving
+  - design and art (I like bautiful stuff that just works. With good design, we get the most out of everything.)
+  - solving new problems
   - meeting new people (they motivate me)
   - biking, hiking and swimming (nature and sport get my thoughts flowing and give me energy)
 
@@ -67,8 +67,8 @@ schools:
     date_end: 2007
     name_short: Grundschule
     name: Matthias-Claudius Grundschule, Bonn-Endenich, Germany
-  - date_start: 2003
-    date_end: 2007
+  - date_start: 2007
+    date_end: 2015
     name_short: CoJoBo (Gymnasium)
     name: Collegium Josephinum Bonn (Gymnasium), Bonn-Auerberg, Germany
     info: 2015 habe ich am CoJoBo mein Abitur mit den Leistungskursen Mathematik und Physik erhalten.
@@ -136,6 +136,7 @@ programming_languages:
   - C (did not use for a long time)
   - Python (could be better)
   - Java (learned in school but did not use for a long time)
+  - Rubby on Rails
 
 programming_languages_i_want_to_learn:
   - Rust
