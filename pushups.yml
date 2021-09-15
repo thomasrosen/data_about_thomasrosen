@@ -323,3 +323,9 @@ data:
     - date_finished: 2021-08-18 11:27+02:00
       value: 20
       comment: While Benji was recording his Reels and I was waiting in the kitchen.
+    - date_finished: 2021-09-14 23:33+02:00
+      value: 10
+      comment: After brushing my teeth.
+    - date_finished: 2021-09-15 11:26+02:00
+      value: 16
+      comment: Before buying groceries.
